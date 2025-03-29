@@ -1,0 +1,24 @@
+.color-box {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  border-radius: 4px;
+}
+
+.card-body {
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+h2 {
+  font-family: 'Arial', sans-serif;
+  color: #343a40;
+}
+
+.progress-bar {
+  font-size: 14px;
+  text-align: center;
+  line-height: 25px;
+}
